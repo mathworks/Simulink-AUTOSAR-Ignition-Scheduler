@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Info Type="StartUp" Visible="0" Icon="" File="data/crankTrig.mat" Name="crankTrig">
+    <Extension Value="29f7dcb8-e6a0-46a1-8076-6ab2180f684e" Name="StartUpPrev" />
+</Info>
